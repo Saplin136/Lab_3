@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sapli\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sapli\\.nuget\\packages"
+    ]
+  }
+}
